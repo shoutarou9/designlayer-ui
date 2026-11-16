@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/banner.png" alt="DesignLayer" width="100%">
+  <img src=".github/assets/free-components.png" alt="Components are now free" width="100%">
 </p>
 
 <h1 align="center">designlayer-ui</h1>
@@ -7,10 +7,10 @@
 <p align="center">Motion-first React components. Free and open source.</p>
 
 <p align="center">
-  ![license](https://img.shields.io/badge/license-MIT-111)
-  ![React](https://img.shields.io/badge/React-19-149eca)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38bdf8)
-  ![components](https://img.shields.io/badge/components-101-111)
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-111">
+  <img alt="React" src="https://img.shields.io/badge/React-19-149eca">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-3-38bdf8">
+  <img alt="components" src="https://img.shields.io/badge/components-101-111">
 </p>
 
 <p align="center">
