@@ -1,0 +1,14 @@
+{
+  "name": "designlayer-ui",
+  "version": "0.1.0",
+  "description": "Motion-first React components. Free and open source.",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.23.0",
+    "motion": "^12.42.2",
+    "tailwind-merge": "^3.6.0"
+  }
+}
